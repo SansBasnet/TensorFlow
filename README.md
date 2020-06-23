@@ -1,6 +1,6 @@
 # TensorFlow Developer Certification
 
-<img src = "Basics/TF.png" width = "300" height = "300" >
+<img src = "Basics/TF.png" width = "200" height = "200" >
 
 #### Test by Google
 
