@@ -1,5 +1,7 @@
 # TensorFlow Developer Certification
 
+<img src = "Basics/TF.png" width = "300" height = "300" >
+
 #### Test by Google
 
 (Candidate handbook: https://www.tensorflow.org/site-assets/downloads/marketing/cert/TF_Certificate_Candidate_Handbook.pdf)
