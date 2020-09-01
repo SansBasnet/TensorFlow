@@ -1,6 +1,6 @@
 # TensorFlow Developer Certification
 
-## Created by Sans Basnet(me) and Andrew Dawson
+## Created by Sans Basnet(me) 
 
 <img src = "Basics/TF.png" width = "200" height = "200" >
 
